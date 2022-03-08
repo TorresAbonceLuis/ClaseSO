@@ -1,2 +1,2 @@
 # ClaseSO
-Prueba de laboratorio
+Repositorio creado para practicar github
